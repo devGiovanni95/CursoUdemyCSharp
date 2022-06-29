@@ -1,7 +1,0 @@
-C:\Curso\Colecao\Colecao\bin\Debug\Colecao.exe.config
-C:\Curso\Colecao\Colecao\bin\Debug\Colecao.exe
-C:\Curso\Colecao\Colecao\bin\Debug\Colecao.pdb
-C:\Curso\Colecao\Colecao\obj\Debug\Colecao.csprojAssemblyReference.cache
-C:\Curso\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
-C:\Curso\Colecao\Colecao\obj\Debug\Colecao.exe
-C:\Curso\Colecao\Colecao\obj\Debug\Colecao.pdb

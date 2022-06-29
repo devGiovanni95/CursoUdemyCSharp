@@ -1,0 +1,8 @@
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.SuggestedBindingRedirects.cache
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+E:\CursoUdemyCSharp\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb

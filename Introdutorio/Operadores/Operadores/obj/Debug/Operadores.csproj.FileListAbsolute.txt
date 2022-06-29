@@ -1,0 +1,8 @@
+E:\CursoUdemyCSharp\Operadores\Operadores\bin\Debug\Operadores.exe.config
+E:\CursoUdemyCSharp\Operadores\Operadores\bin\Debug\Operadores.exe
+E:\CursoUdemyCSharp\Operadores\Operadores\bin\Debug\Operadores.pdb
+E:\CursoUdemyCSharp\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+E:\CursoUdemyCSharp\Operadores\Operadores\obj\Debug\Operadores.csproj.SuggestedBindingRedirects.cache
+E:\CursoUdemyCSharp\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+E:\CursoUdemyCSharp\Operadores\Operadores\obj\Debug\Operadores.exe
+E:\CursoUdemyCSharp\Operadores\Operadores\obj\Debug\Operadores.pdb

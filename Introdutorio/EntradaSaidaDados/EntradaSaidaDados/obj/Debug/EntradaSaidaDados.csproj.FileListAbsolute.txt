@@ -1,0 +1,8 @@
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\EntradaSaidaDados.exe.config
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\EntradaSaidaDados.exe
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\EntradaSaidaDados.pdb
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\EntradaSaidaDados.csproj.AssemblyReference.cache
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\EntradaSaidaDados.csproj.SuggestedBindingRedirects.cache
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\EntradaSaidaDados.csproj.CoreCompileInputs.cache
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\EntradaSaidaDados.exe
+E:\CursoUdemyCSharp\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\EntradaSaidaDados.pdb

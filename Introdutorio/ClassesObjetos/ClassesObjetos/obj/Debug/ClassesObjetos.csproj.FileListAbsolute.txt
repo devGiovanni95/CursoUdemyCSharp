@@ -1,0 +1,16 @@
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+E:\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
