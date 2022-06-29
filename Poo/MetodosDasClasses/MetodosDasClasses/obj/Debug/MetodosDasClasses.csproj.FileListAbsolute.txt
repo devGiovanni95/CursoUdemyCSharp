@@ -1,0 +1,8 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\bin\Debug\MetodosDasClasses.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\obj\Debug\MetodosDasClasses.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MetodosDasClasses\MetodosDasClasses\obj\Debug\MetodosDasClasses.pdb
