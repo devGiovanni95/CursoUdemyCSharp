@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace Estaticas
 {
-    internal class Pessoa
-    {
-
-        public static int maiorIdade = 18;
-
-        public string nome;
-        public int idade;
+    //definindo como partial o sistema entende que é continuação da outra classe declarada
+    //anteriomente 
+     partial class Pessoa {
 
         public void Apresentar()
         {
@@ -23,8 +19,5 @@ namespace Estaticas
         {
             return DateTime.Now.Year - anoNascimento;//puxa a data do computador
         }
-
-
-
     }
 }
