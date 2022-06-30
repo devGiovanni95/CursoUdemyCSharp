@@ -10,14 +10,30 @@ namespace Estaticas
     {
         static void Main(string[] args)
         {
-            //utilizando a classe statica para passar o parametro por  ->"."<-
-            Matematica.taxa = 10;
 
-            int valor1 = Matematica.Adicionar(200);
-            int valor2 = Matematica.Diminuir(200);
+            #region Statica
 
-            Console.WriteLine("O valor de 1: " + valor1);
-            Console.WriteLine("O valor de 2: " + valor2);
+            ////utilizando a classe statica para passar o parametro por  ->"."<-
+            //Matematica.taxa = 10;
+
+            //int valor1 = Matematica.Adicionar(200);
+            //int valor2 = Matematica.Diminuir(200);
+
+            //Console.WriteLine("O valor de 1: " + valor1);
+            //Console.WriteLine("O valor de 2: " + valor2);
+
+
+            #endregion
+
+           Pessoa.maiorIdade = 21;
+
+            Pessoa p1 = new Pessoa();
+            p1.nome = "Giovanni";
+            p1.idade = Pessoa.CalcularIdade(1995);
+
+            Console.WriteLine(p1.nome);
+            Console.WriteLine(p1.idade);
+            Console.WriteLine(Pessoa.maiorIdade);
 
             Console.ReadKey();
 
