@@ -25,15 +25,35 @@ namespace MetodosDasClasses
             //Console.WriteLine("Valor 2: " + valor2);
 
 
-            string nomeCompleto = m.MontaNome("Giovanni", "Almeida");
-            int codigoChar = m.CodigoChar('G');
-            int codigoChar1 = m.CodigoChar1('S');
-            double pi = m.ValorPi();
+            //string nomeCompleto = m.MontaNome("Giovanni", "Almeida");
+            //int codigoChar = m.CodigoChar('G');
+            //int codigoChar1 = m.CodigoChar1('S');
+            //double pi = m.ValorPi();
 
-            Console.WriteLine(nomeCompleto);
-            Console.WriteLine(codigoChar);
-            Console.WriteLine(codigoChar1);
-            Console.WriteLine(pi);
+            //Console.WriteLine(nomeCompleto);
+            //Console.WriteLine(codigoChar);
+            //Console.WriteLine(codigoChar1);
+            //Console.WriteLine(pi);
+
+
+
+
+
+            //Console.WriteLine(m.Cumprimentar("->Giovanni"));
+
+
+            m.Cumprimentar();
+            m.Cumprimentar("Gabriel");
+            m.Cumprimentar("Giovanni", 18);
+
+            bool res1 = m.Comparar(100,50*2);
+            bool res2 = m.Comparar("Gabriel", "gabriel");
+
+            Console.WriteLine(res1);
+            Console.WriteLine(res2);
+
+
+
 
 
 
