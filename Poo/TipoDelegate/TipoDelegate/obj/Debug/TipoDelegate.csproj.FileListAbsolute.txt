@@ -1,0 +1,8 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.pdb
