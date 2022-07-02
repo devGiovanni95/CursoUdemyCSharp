@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Poo",
+    "\\Poo\\Propriedades"
   ],
+  "SelectedNode": "\\Poo\\Propriedades\\Propriedades.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,8 @@
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Propriedades\obj\Debug\Propriedades.pdb
