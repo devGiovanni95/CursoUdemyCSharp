@@ -8,11 +8,39 @@ namespace Encapsular
 {
     internal class Conta
     {
-        public string _cliente;
-        public double _saldo;
+        private string _cliente;
+        private double _saldo;
+        private double _taxa = 10;
+
+        public string Cliente
+        {
+            get { return _cliente; }
+            set
+            {
+                if (value != "Gabriel" && value != "Logan")
+                {
+                    _cliente = "Visitante";
+                    Saldo = 0;
+                }
+                else
+                {
+                    _cliente = value;
+                    Saldo = 100;
+                }
+            }
+        }
+
+        public double Saldo {
+           get { return _saldo; }
+
+            private set { _saldo = value; }
+            
+      }
+
 
         public void Sacar(double valor)
         {
+            valor += _taxa;//taxa por saque realizado adicionado no valor que será sacado
             _saldo -= valor;
         }
 

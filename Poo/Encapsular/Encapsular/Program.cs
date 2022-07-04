@@ -12,8 +12,8 @@ namespace Encapsular
         {
             Conta c = new Conta();
 
-            c._cliente = "Gabriel";
-            c._saldo = 100;
+            c.Cliente = "Gabriel";
+           // c.Saldo = 100;        agora com o enpsulamento fica privado a atribuicao de saldo 
 
             //==================Operação de Deposito========================
             double valor = 100;
@@ -24,8 +24,8 @@ namespace Encapsular
             c.Sacar(valor1);
 
             //==================Resultado do Saldo Atual========================
-            Console.WriteLine("Cliente: " + c._cliente);
-            Console.WriteLine("Saldo: " + c._saldo); ;
+            Console.WriteLine("Cliente: " + c.Cliente);
+            Console.WriteLine("Saldo: " + c.Saldo); ;
 
             Console.ReadKey ();
         }
