@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    internal class Carro
+    class Carro : Veiculo //o ":" no c significa que esta herdando
     {
-        public string Cor { get; set; }
-        public string Marca { get; set; }
+     //   public string Cor { get; set; }
+      //  public string Marca { get; set; }
         public int VelocidadeMaxima{ get; set; }
 
         public void LigarMotor()
@@ -17,7 +17,8 @@ namespace Heranca
             Console.WriteLine("O carro ligou o motor");
         }
         
-        public void Acelerar()
+   /* Iremos criar uma conexao atravez da heranca
+    * public void Acelerar()
         {
             Console.WriteLine("Acelerou!");
         }
@@ -25,7 +26,7 @@ namespace Heranca
         public void Parar()
         {
             Console.WriteLine("Parou!");
-        }
+        }*/
 
     }
 }

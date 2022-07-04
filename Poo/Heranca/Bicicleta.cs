@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    internal class Bicicleta
+    class Bicicleta : Veiculo
     {
-        public string Cor { get; set; }
-        public string Marca { get; set; }
+        //public string Cor { get; set; }
+       // public string Marca { get; set; }
 
 
         public void Pedalar()
@@ -17,14 +17,15 @@ namespace Heranca
             Console.WriteLine("Pedalou!");
         }
 
-        public void Acelerar()
-        {
-            Console.WriteLine("Acelerou!");
-        }
+        /*Iremos criar uma conexao atravez da heranca
+         * public void Acelerar()
+          {
+              Console.WriteLine("Acelerou!");
+          }
 
-        public void Parar()
-        {
-            Console.WriteLine("Parou!");
-        }
+          public void Parar()
+          {
+              Console.WriteLine("Parou!");
+          }*/
     }
 }

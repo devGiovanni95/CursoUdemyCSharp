@@ -1,0 +1,8 @@
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\bin\Debug\Heranca.exe
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\bin\Debug\Heranca.pdb
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\obj\Debug\Heranca.exe
+C:\Users\geu_p\Source\Repos\devGiovanni95\CursoUdemyCSharp\Poo\Heranca\obj\Debug\Heranca.pdb
