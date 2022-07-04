@@ -1,0 +1,8 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb
