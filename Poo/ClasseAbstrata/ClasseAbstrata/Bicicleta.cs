@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClasseAbstrata
 {
-    internal class Bicicleta : Veiculo
+    //lacrada selada para que ela nao possa ser herdada
+    sealed class Bicicleta : Veiculo
     {
        
 
