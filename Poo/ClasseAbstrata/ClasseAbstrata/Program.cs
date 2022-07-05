@@ -10,7 +10,7 @@ namespace ClasseAbstrata
     {
         static void Main(string[] args)
         {
-
+            #region Parte 1
             Carro c = new Carro();
             Bicicleta b = new Bicicleta();
            // Veiculo veiculo = new Veiculo();
@@ -38,6 +38,21 @@ namespace ClasseAbstrata
             Console.WriteLine("A marca da bicicleta é: " + b.Marca);
             Console.WriteLine();
 
+            #endregion
+
+            Humano humano = new Humano();
+            Pessoa pessoa = new Pessoa();
+            Homem homem = new Homem();
+
+            Console.WriteLine("\n Humano");
+            humano.Olhos();
+            humano.Cabelos();
+            Console.WriteLine("\n Pessoa");
+            pessoa.Olhos();
+            pessoa.Cabelos();
+            Console.WriteLine("\n Homem");
+            homem.Olhos();
+            homem.Cabelos();
 
             Console.ReadKey();
 

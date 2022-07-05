@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Poo"
+    "\\Poo",
+    "\\Poo\\ClasseAbstrata",
+    "\\Poo\\ClasseAbstrata\\ClasseAbstrata"
   ],
+  "SelectedNode": "\\Poo\\ClasseAbstrata\\ClasseAbstrata\\Properties",
   "PreviewInSolutionExplorer": false
 }
