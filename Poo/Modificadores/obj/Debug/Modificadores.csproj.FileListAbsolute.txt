@@ -1,0 +1,8 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\bin\Debug\Modificadores.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\bin\Debug\Modificadores.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\bin\Debug\Modificadores.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\obj\Debug\Modificadores.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\obj\Debug\Modificadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\obj\Debug\Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\obj\Debug\Modificadores.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\Modificadores\obj\Debug\Modificadores.pdb
