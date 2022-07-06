@@ -1,0 +1,8 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Poo\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
