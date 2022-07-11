@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Poo",
-    "\\Poo\\ClasseAbstrata",
-    "\\Poo\\ClasseAbstrata\\ClasseAbstrata"
+    "\\Poo\\ClasseAbstrata\\ClasseAbstrata",
+    "\\Poo\\MediaGeralPOO"
   ],
-  "SelectedNode": "\\Poo\\ClasseAbstrata\\ClasseAbstrata\\Properties",
+  "SelectedNode": "\\Poo\\MediaGeralPOO\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

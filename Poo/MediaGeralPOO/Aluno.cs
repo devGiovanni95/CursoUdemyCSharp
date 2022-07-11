@@ -41,7 +41,7 @@ namespace MediaGeralPOO
             for(int i = 0; i < _notas.Length; i++)
             {
                 total += _notas[i];
-                Console.WriteLine("Conferencia"+total);
+              //  Console.WriteLine("Conferencia"+total);
             }
             return total / _notas.Length;
         }
