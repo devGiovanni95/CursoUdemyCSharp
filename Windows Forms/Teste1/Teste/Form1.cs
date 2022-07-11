@@ -15,8 +15,22 @@ namespace Teste1
     {
         public Form1()
         {
+            /*Definindo tamanho da tela*/
+          /*  Size tamanho = new Size();
+            tamanho.Width = 900;
+            tamanho.Height = 450;*/
+
             InitializeComponent();
-            
+            //muda o titulo da aplicação
+            this.Text = "Giovanni Almeida";
+            //this.Size = tamanho;
+
+            //Outra maneira de definir tamanho diretamente
+            this.Size = new Size(800,500);
+
+            //Definine se tem comandos de fechar maximizar minimizar
+            this.ControlBox = true;
+
         }
     }
 }
