@@ -1,0 +1,22 @@
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\bin\Debug\Teste.exe.config
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\bin\Debug\Teste.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\bin\Debug\Teste.pdb
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste1.Form1.resources
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.exe
+C:\Users\geu_p\source\repos\devGiovanni95\CursoUdemyCSharp\Windows Forms\Teste1\Teste\obj\Debug\Teste.pdb

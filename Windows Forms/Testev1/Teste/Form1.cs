@@ -50,9 +50,7 @@ namespace Teste1
         private void Form1_Click(object sender, EventArgs e)
         {
             this.Text = "Clicando no Form";
-            /* this.Size = new Size(1080, 720);*/
-            lbltitle.Text = "Clicou no Botão";
-
+            this.Size = new Size(1080, 720);
           //this.StartPosition = FormStartPosition.CenterScreen;
         }
 
@@ -61,28 +59,10 @@ namespace Teste1
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-            btn1.Size = new Size(300, 150);
-        }
-
-        /*Quando passamos o mause por cima*/
-        private void btn1_MouseEnter(object sender, EventArgs e)
-        {
-            lbltitle.Text = "Evento Mouse Enter acionado";
-
-        }
-
-        private void btn1_MouseLeave(object sender, EventArgs e)
-        {
-            lbltitle.Text = "Evento Mouse Leave acionado";
-
-        }
-
         //Se excluirmos aki temos que desassociar ele das acoes de clicks
-        /*    private void Form1_FormClosed(object sender, FormClosedEventArgs e)
-            {
+    /*    private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
 
-            }*/
+        }*/
     }
 }

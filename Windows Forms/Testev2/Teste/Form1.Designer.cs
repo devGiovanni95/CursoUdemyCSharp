@@ -44,9 +44,7 @@
             this.btn1.TabIndex = 0;
             this.btn1.Text = "Executar";
             this.btn1.UseVisualStyleBackColor = false;
-            this.btn1.Click += new System.EventHandler(this.Form1_Click);
-            this.btn1.MouseEnter += new System.EventHandler(this.btn1_MouseEnter);
-            this.btn1.MouseLeave += new System.EventHandler(this.btn1_MouseLeave);
+            this.btn1.Click += new System.EventHandler(this.MeuMetodo);
             // 
             // lbltitle
             // 
@@ -64,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gainsboro;
+            this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(784, 354);
             this.Controls.Add(this.lbltitle);
             this.Controls.Add(this.btn1);
